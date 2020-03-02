@@ -1,2 +1,2 @@
 # bash-scripting
-sample of bash scripts
+sample of bash scripts.
